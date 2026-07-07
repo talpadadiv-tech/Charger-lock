@@ -1,0 +1,6 @@
+{
+  "name": "Charger Lock",
+  "description": "A kid-safe blackout locker that blocks navigation and volume buttons, unlocking only when a charger is plugged in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
